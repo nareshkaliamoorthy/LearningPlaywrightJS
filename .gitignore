@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Playwright
+playwright-report/
+
+# Build/dist
+dist/
+coverage/
+
+# Misc
+*.local
+*.log
